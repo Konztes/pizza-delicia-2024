@@ -7,4 +7,4 @@ utilização do GitHub.
 
 ##Autores
 
-Desenvolvido pela Zuleika
+Desenvolvido pela Zuleika e pelo Pafuncio
